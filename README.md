@@ -1,5 +1,5 @@
 # BACKENDCODE
-THIS IS A BACKEND CODE OR A ED-TECH PLATEFORM NAMED AS STUDYNOTION
+THIS IS A BACKEND CODE OF AN ED-TECH PLATEFORM NAMED AS STUDYNOTION
 
 Description of the Back-end Architecture: StudyNotion uses a monolithic architecture, with the backend built using Node.js and Express.js, and MongoDB as the primary database.
 
