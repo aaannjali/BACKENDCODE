@@ -39,6 +39,9 @@ The back end of StudyNotion uses a range of data models and database schemas to 
 
 Overall, the back-end of StudyNotion is designed to provide a robust and scalable solution for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the right frameworks, libraries, and tools, we can ensure that the platform functions smoothly and provides an optimal user experience for all its users.
 
+![schema](https://github.com/aaannjali/BACKENDCODE/assets/121468990/37ac4c1a-6167-473b-9f8e-ed02ea2dafa9)
+
+
 
 
 API Design
