@@ -25,6 +25,6 @@ Frameworks, Libraries, and Tools used: The back end of StudyNotion uses a range 
    
    4.JWT: JWT (JSON Web Tokens) are used for authentication and authorization, providing a secure and reliable way to manage user credentials.
 
-   5.Bcrypt: Bcrypt is used for password hashing, adding an extra layer of security to user data.
+   5.Bcrypt: Bcrypt is used for password hashing, adding an extra layer of security to user data
 
   6.Mongoose: Mongoose is used as an Object Data Modeling (ODM) library, providing a way to interact with MongoDB using JavaScript
